@@ -9,3 +9,13 @@ foolof41.github.io
 
 ==================
 ## c
+
+adfasdf
+
+`
+  function test(arg){
+    alert(arg);
+  }
+`
+
+ad
