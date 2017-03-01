@@ -19,3 +19,8 @@ adfasdf
 `
 
 ad
+
+
+  function test2(){
+    console.log(arguments);
+  }
